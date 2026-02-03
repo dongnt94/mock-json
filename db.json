@@ -1,8 +1,20 @@
 {
   "step": {
-    "stepCode": "A1",
-    "stepName": "A1",
-    "active": true,
-    "type": "Tempo"
+    "data": [
+      {
+        "id": 1,
+        "stepCode": "D0",
+        "stepName": "Dealer",
+        "active": true,
+        "type": "Dealer"
+      },
+      {
+        "id": 2,
+        "stepCode": "P0",
+        "stepName": "Salesroom",
+        "active": true,
+        "type": "Salesroom"
+      }
+    ]
   }
 }
