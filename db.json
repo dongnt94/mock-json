@@ -1,6 +1,8 @@
 {
-  "stepCode": "A1",
-  "stepName": "A1",
-  "active": true,
-  "type": "Tempo"
+  "step": {
+    "stepCode": "A1",
+    "stepName": "A1",
+    "active": true,
+    "type": "Tempo"
+  }
 }
